@@ -30,6 +30,7 @@ CCRM-Java-Project/
 - Java 17 or newer (prof said to use this version)
 - VS Code with Java Extension Pack or Eclipse IDE
 - around 5-10 minutes
+<img width="1596" height="650" alt="downloading java" src="https://github.com/user-attachments/assets/33b20a3d-bd8c-48a0-b5d5-571835a03300" />
 
 **How to run:**
 1. open VS Code and load the `CCRM-Java-Project` folder
@@ -72,7 +73,8 @@ basically JDK contains JRE, and JRE contains JVM.
    java -version
    javac -version
    ```
-   
+![java version](https://github.com/user-attachments/assets/7e7d0f3a-4650-426f-8c4a-de99b31cc124)
+
 if you see version numbers then your good to go.
 
 ## Learning concepts we used
@@ -108,6 +110,8 @@ if you prefer Eclipse IDE:
 2. name it `CCRM-Java-Project`
 3. copy source files into `edu/ccrm/` package structure
 4. run `MainMenu.java` 
+<img width="1091" height="544" alt="Eclipse setup" src="https://github.com/user-attachments/assets/f6758ac1-46c7-4056-8126-9ae414213a23" />
+<img width="638" height="679" alt="eclipse install" src="https://github.com/user-attachments/assets/becaaee9-3832-49e6-b9c7-1632797ee4a5" />
 
 **enabling assertions** (optional but recommended)
 ```java
